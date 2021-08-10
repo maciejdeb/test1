@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "my first script"
+echo "my second script"
 exit 0
